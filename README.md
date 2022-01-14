@@ -1,5 +1,5 @@
 # Profitable App Profiles for the App Store and Google Play Markets
-## This projects is part of Dataquest's Data Engineering path. 
+## Project completed as part of Dataquest's Data Engineering path. 
 ---------------------------------
 ## Introduction
 
